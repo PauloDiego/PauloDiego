@@ -1,45 +1,32 @@
-# Hi, there!👋🏽
+<div style="text-align: center;">
 
-Sou Paulo Diego, tenho 22 anos e sou de Fortaleza - CE. Sou um estudante e entusiasta da programação. No momento estou estudando Java, buscando especialização nessa linguagem tão rica e intrigante. 
+<h2>Hi, there!👋🏽 </h2>
 
-### Conecte-se comigo
+<p >👨🏽‍💻 I'm Paulo,  I'm 22 years old and I from Fortaleza, Ceará. I am a developer enthusiast and passionate about technology.</p>
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-365F11?style=for-the-badge)](https://web.dio.me/users/paulodiego418/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:paulodiego418@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/paulo-diego/)
-
-### Habilidades
-
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=)
-[![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=)]()
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=)](https://docs.github.com/)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloDiego&theme=transparent&bg_color=000&border_color=365F11&show_icons=true&icon_color=365F11&title_color=556B2F&text_color=FFF&hide_title=true&hide=stars)<br>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloDiego&layout=compact&bg_color=000&border_color=365F11&title_color=556B2F&text_color=FFF)
-
-### Meus Principais Projetos
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=PauloDiego&repo=dio-lab-open-source&bg_color=000&border_color=365F11&show_icons=true&icon_color=365F11&title_color=556B2F&text_color=FFF)](https://github.com/PauloDiego/dio-lab-open-source)
-
----
+<p>🔭 I’m currently working in personal projects in order to seek my first opportunity with development.</p>
+<p>🌱 I’m currently learning JavaScript.</p>
 
 
-<!--
-**PauloDiego/PauloDiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>How to reach me</h2>
+<a href="mailto:paulodiego418@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-die/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 
-Here are some ideas to get you started:
+<h2>Skills</h2>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,javascript"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>My statistics</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PauloDiego&theme=transparent&bg_color=000&border_color=365F11&show_icons=true&icon_color=365F11&title_color=556B2F&text_color=FFF&hide_title=true&hide=stars" alt="My stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloDiego&layout=compact&bg_color=000&border_color=365F11&title_color=556B2F&text_color=FFF" alt="Most used languages" />
+
+
+<h2>My main projects</h2>
+
+<p>💭 In progress...</p>
+
+</div>
