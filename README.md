@@ -3,7 +3,7 @@
 <p >👨🏽‍💻 I'm Paulo,  I'm 22 years old and I from Fortaleza, Ceará. I am a developer enthusiast and passionate about technology.</p>
 
 <p>🔭 I’m currently working in personal projects in order to seek my first opportunity with development.</p>
-<p>🌱 I’m currently learning JavaScript.</p>
+<p>🌱 I’m currently learning JavaScript and TailwindCSS.</p>
 </div><br>
 
 <h2 align="center">How to reach me</h2>
