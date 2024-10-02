@@ -3,7 +3,7 @@
 <p >👨🏽‍💻 I'm Paulo,  I'm 22 years old and I from Fortaleza, Ceará. I am a developer enthusiast and passionate about technology.</p>
 
 <p>🔭 I’m currently working in personal projects in order to seek my first opportunity with development.</p>
-<p>🌱 I’m currently learning JavaScript and TailwindCSS.</p>
+<p>🌱 I’m currently learning JavaScript in Web.</p>
 </div><br>
 
 <h2 align="center">How to reach me</h2>
@@ -18,7 +18,7 @@
 
 <h2 align="center">Skills</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,javascript,tailwindcss"/>
 </div><br>
 
 <h2 align="center">My statistics</h2>
