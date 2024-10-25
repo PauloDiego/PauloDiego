@@ -1,9 +1,9 @@
 <h2 align="center">Hi, there!👋🏽 </h2>
 <div align="center">
-<p >👨🏽‍💻 I'm Paulo,  I'm 22 years old and I from Fortaleza, Ceará. I am a developer enthusiast and passionate about technology.</p>
+<p >👨🏽‍💻 I'm Paulo,  I'm 22 years old and I was born in Fortaleza, Ceará. I am a developer student and passionate about technology.</p>
 
 <p>🔭 I’m currently working in personal projects in order to seek my first opportunity with development.</p>
-<p>🌱 I’m currently learning JavaScript in Web.</p>
+<p>🌱 I’m currently learning React JS and Java.</p>
 </div><br>
 
 <h2 align="center">How to reach me</h2>
